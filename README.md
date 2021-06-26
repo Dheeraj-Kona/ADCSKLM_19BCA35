@@ -1,2 +1,1 @@
-# Swapping-Numbers-Using-Bitwise-Operators-
-Did it for College Homework
+This Repository Only Contains My Assignments For College :)
